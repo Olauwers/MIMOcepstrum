@@ -1,5 +1,5 @@
 # MIMOcepstrum
-Code for numerical illustrations accompanying the paper A MIMO Cepstrum
+Code for numerical illustrations accompanying the paper A MIMO Cepstrum.
 ## Summary
 The code in this repository represents a minimal working example in Matlab for the simulations in the manuscript "A Multiple-Input Multiple-Output Cepstrum", a preprint of which can be found on [arXiv](https://arxiv.org/abs/1803.03080), by Oliver Lauwers, Oscar Mauricio Agudelo and Bart De Moor, which deals with the question of extending the notion of power cepstrum to the MIMO case. This manuscript has been sent in to be considered for publication to the IEEE Control Systems letters (in affiliation with the 2017 IEEE Conference on Decision and Control).
 
